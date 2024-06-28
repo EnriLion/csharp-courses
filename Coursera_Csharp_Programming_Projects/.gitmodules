@@ -1,0 +1,3 @@
+[submodule "csharp-courses"]
+	path = csharp-courses
+	url = git@github.com:EnriLion/csharp-courses.git

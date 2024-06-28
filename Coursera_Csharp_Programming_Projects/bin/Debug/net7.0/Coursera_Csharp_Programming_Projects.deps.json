@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Coursera_Csharp_Programming_Projects/1.0.0": {
+        "runtime": {
+          "Coursera_Csharp_Programming_Projects.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Coursera_Csharp_Programming_Projects/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

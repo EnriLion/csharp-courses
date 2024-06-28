@@ -1,0 +1,14 @@
+C:\Users\Winleon\Snippets\Coursera_Csharp_Programming_Projects\bin\Debug\net7.0\Coursera_Csharp_Programming_Projects.exe
+C:\Users\Winleon\Snippets\Coursera_Csharp_Programming_Projects\bin\Debug\net7.0\Coursera_Csharp_Programming_Projects.deps.json
+C:\Users\Winleon\Snippets\Coursera_Csharp_Programming_Projects\bin\Debug\net7.0\Coursera_Csharp_Programming_Projects.runtimeconfig.json
+C:\Users\Winleon\Snippets\Coursera_Csharp_Programming_Projects\bin\Debug\net7.0\Coursera_Csharp_Programming_Projects.dll
+C:\Users\Winleon\Snippets\Coursera_Csharp_Programming_Projects\bin\Debug\net7.0\Coursera_Csharp_Programming_Projects.pdb
+C:\Users\Winleon\Snippets\Coursera_Csharp_Programming_Projects\obj\Debug\net7.0\Coursera_Csharp_Programming_Projects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Winleon\Snippets\Coursera_Csharp_Programming_Projects\obj\Debug\net7.0\Coursera_Csharp_Programming_Projects.AssemblyInfoInputs.cache
+C:\Users\Winleon\Snippets\Coursera_Csharp_Programming_Projects\obj\Debug\net7.0\Coursera_Csharp_Programming_Projects.AssemblyInfo.cs
+C:\Users\Winleon\Snippets\Coursera_Csharp_Programming_Projects\obj\Debug\net7.0\Coursera_Csharp_Programming_Projects.csproj.CoreCompileInputs.cache
+C:\Users\Winleon\Snippets\Coursera_Csharp_Programming_Projects\obj\Debug\net7.0\Coursera_Csharp_Programming_Projects.dll
+C:\Users\Winleon\Snippets\Coursera_Csharp_Programming_Projects\obj\Debug\net7.0\refint\Coursera_Csharp_Programming_Projects.dll
+C:\Users\Winleon\Snippets\Coursera_Csharp_Programming_Projects\obj\Debug\net7.0\Coursera_Csharp_Programming_Projects.pdb
+C:\Users\Winleon\Snippets\Coursera_Csharp_Programming_Projects\obj\Debug\net7.0\Coursera_Csharp_Programming_Projects.genruntimeconfig.cache
+C:\Users\Winleon\Snippets\Coursera_Csharp_Programming_Projects\obj\Debug\net7.0\ref\Coursera_Csharp_Programming_Projects.dll

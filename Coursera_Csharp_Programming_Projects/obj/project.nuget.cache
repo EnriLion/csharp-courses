@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Jk2nAMlx1E8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Winleon\\Snippets\\Coursera_Csharp_Programming_Projects\\Coursera_Csharp_Programming_Projects.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Winleon\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.19\\microsoft.windowsdesktop.app.ref.7.0.19.nupkg.sha512",
+    "C:\\Users\\Winleon\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.19\\microsoft.netcore.app.ref.7.0.19.nupkg.sha512",
+    "C:\\Users\\Winleon\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.19\\microsoft.aspnetcore.app.ref.7.0.19.nupkg.sha512",
+    "C:\\Users\\Winleon\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.19\\microsoft.netcore.app.host.win-x64.7.0.19.nupkg.sha512"
+  ],
+  "logs": []
+}
