@@ -7,4 +7,4 @@ In this project contains a lot of classes and an interface showing the OOP(Objec
 ```poweshell
 cd Create_Web_Api_With_Asp_Net_Core_Controllers
 ```
-In the project/course above is an easy REST(Representational State Transfer)API(Application Programming Interface) with the MVC(Model View Controler)
+In the project/course above it's an easy REST(Representational State Transfer)API(Application Programming Interface) with the MVC(Model View Controler)
