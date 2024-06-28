@@ -1,5 +1,5 @@
 # C# courses
-In this section I talked about the different projects/courses
+In this section there are  different projects/courses
 ```poweshell
 cd Coursera_Csharp_Programming_Projects
 ```
