@@ -59,8 +59,8 @@ else
 
 //TERNARY OPERATION
 
-string result = isAuthenticated ? "You are logged in." : "You are not logged in";
-Console.WriteLine(result);
+string result1 = isAuthenticated ? "You are logged in." : "You are not logged in";
+Console.WriteLine(result1);
 
 //int temperature = 50;
 if (temperature < 20)
@@ -299,3 +299,71 @@ Console.WriteLine(Calculate.increment());
 
 
 Console.WriteLine(Calculate.decrement());
+Console.WriteLine();
+
+/*Demonstrating Extension Methods: */
+
+int number = 100;
+
+/*bool result = number.isGreaterThan(1000);*/
+bool result = number.isGreaterThan(10);
+Console.WriteLine(result);
+
+Console.WriteLine();
+
+/*Partial class  and Partial method*/
+
+var employeee = new Employee();
+Console.WriteLine(employeee.EmpId);
+Console.WriteLine(employeee.EmpName);
+employeee.DisplayDetails();
+
+//make a constructor to initialize value
+
+Console.WriteLine();
+
+//Demonstrating Properties: //
+
+User user = new User();
+user.Name = "King Kochhar";
+user.Age = 25;
+//user.CompanyName = "kajdla"; can't be assigned due to is read only
+/*Console.WriteLine(user.Name);
+Console.WriteLine(user.CompanyName);
+Console.WriteLine(user.Age);
+*/
+Console.WriteLine();
+
+/*Demonstrating Indexers:*/
+
+StringIndexerType stringIndexerType = new StringIndexerType();
+stringIndexerType[0] = "String One";
+stringIndexerType[1] = "String Two";
+stringIndexerType[2] = "String Three";
+stringIndexerType[3] = "String Four";
+stringIndexerType[4] = "String Five";
+stringIndexerType[5] = "String Six";
+stringIndexerType[6] = "String Seven";
+stringIndexerType[7] = "String Eight";
+stringIndexerType[8] = "String Nine";
+stringIndexerType[9] = "String Ten";
+/*stringIndexerType[10] = "String Four"; // Will throw an error due to the condition in StringIndexerType
+*/
+for (i = 0; i < 10; i++)
+    Console.WriteLine(stringIndexerType[i]);
+
+Console.WriteLine();
+
+/*Demonstrating Enumations */
+
+EnumDemo enumDemo = new EnumDemo();
+enumDemo.display();
+
+Console.WriteLine();
+
+// coreAdvancedConcepts
+
+Calculation calculation = new Calculation();
+//calculation.calculate(100, 0);
+calculation.calculateAnother();
+

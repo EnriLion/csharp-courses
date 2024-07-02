@@ -12,3 +12,4 @@ C:\Users\Winleon\Snippets\Coursera_Csharp_Programming_Projects\obj\Debug\net7.0\
 C:\Users\Winleon\Snippets\Coursera_Csharp_Programming_Projects\obj\Debug\net7.0\Coursera_Csharp_Programming_Projects.pdb
 C:\Users\Winleon\Snippets\Coursera_Csharp_Programming_Projects\obj\Debug\net7.0\Coursera_Csharp_Programming_Projects.genruntimeconfig.cache
 C:\Users\Winleon\Snippets\Coursera_Csharp_Programming_Projects\obj\Debug\net7.0\ref\Coursera_Csharp_Programming_Projects.dll
+C:\Users\Winleon\Snippets\Coursera_Csharp_Programming_Projects\obj\Debug\net7.0\Coursera_Csharp_Programming_Projects.sourcelink.json
