@@ -353,6 +353,7 @@ for (i = 0; i < 10; i++)
     Console.WriteLine(stringIndexerType[i]);
 
 Console.WriteLine();
+Console.WriteLine();
 
 /*Demonstrating Enumations */
 
@@ -367,3 +368,59 @@ Calculation calculation = new Calculation();
 //calculation.calculate(100, 0);
 calculation.calculateAnother();
 
+Console.WriteLine();
+
+var obj = new
+{
+    firstName = "King",
+    lastName = "Kochhar",
+    salary = 12000,
+    address = new {streetName = "Civil Lines", city = "Delhi"},
+    projects = new[]
+    {
+        new { projectName = "ECommerce", projectDuration = "40 Hours"},
+        new { projectName = "Admin Portal", projectDuration = "25 Hours"},
+        new { projectName = "Accounting", projectDuration = "30 Hours"}
+    }
+};
+
+Console.WriteLine(obj.firstName);
+Console.WriteLine(obj.lastName);
+Console.WriteLine(obj.salary);
+Console.WriteLine(obj.address.streetName);
+Console.WriteLine(obj.address.city);
+
+foreach (var project in obj.projects)
+{
+    Console.WriteLine(project.projectName + ": " + project.projectDuration); 
+}
+
+Console.WriteLine();
+
+//MultiCast Delegates
+
+/*CalculateDelegate c1 = new CalculateDelegate(DelegateExample.addition);
+CalculateDelegate c2 = new CalculateDelegate(DelegateExample.multiplication);
+
+c1(100);
+
+Console.WriteLine(DelegateExample.getNumber());
+
+c2(200);
+
+Console.WriteLine(DelegateExample.getNumber());
+*/
+
+//Single Cast Delegates
+
+Console.WriteLine();
+
+CalculateDelegate c1 = new CalculateDelegate(DelegateExample.addition);
+
+c1(100);
+Console.WriteLine(DelegateExample.getNumber());
+c1 += new CalculateDelegate(DelegateExample.addition);
+c1 += new CalculateDelegate(DelegateExample.multiplication);
+
+c1(100);
+Console.WriteLine(DelegateExample.getNumber());

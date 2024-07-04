@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Create_Web_Api_With_Asp_Net_Core_Controllers")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7aa834bfa57bad14e77bbdd05d0413b1a9c56f74")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9f92b4627ab302331ef6cad07b49a8a5fb24e473")]
 [assembly: System.Reflection.AssemblyProductAttribute("Create_Web_Api_With_Asp_Net_Core_Controllers")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Create_Web_Api_With_Asp_Net_Core_Controllers")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
