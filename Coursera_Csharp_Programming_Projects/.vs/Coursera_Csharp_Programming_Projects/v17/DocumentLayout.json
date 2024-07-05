@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{5C4B4B13-C73B-4FA2-A120-2245A1B90E33}|Coursera_Csharp_Programming_Projects.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{5C4B4B13-C73B-4FA2-A120-2245A1B90E33}|Coursera_Csharp_Programming_Projects.csproj|c:\\users\\winleon\\snippets\\coursera_csharp_programming_projects\\eventsexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C4B4B13-C73B-4FA2-A120-2245A1B90E33}|Coursera_Csharp_Programming_Projects.csproj|solutionrelative:eventsexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5C4B4B13-C73B-4FA2-A120-2245A1B90E33}|Coursera_Csharp_Programming_Projects.csproj|c:\\users\\winleon\\snippets\\coursera_csharp_programming_projects\\delegateexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5C4B4B13-C73B-4FA2-A120-2245A1B90E33}|Coursera_Csharp_Programming_Projects.csproj|solutionrelative:delegateexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -26,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -35,6 +39,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "EventsExample.cs",
+              "DocumentMoniker": "C:\\Users\\Winleon\\Snippets\\Coursera_Csharp_Programming_Projects\\EventsExample.cs",
+              "RelativeDocumentMoniker": "EventsExample.cs",
+              "ToolTip": "C:\\Users\\Winleon\\Snippets\\Coursera_Csharp_Programming_Projects\\EventsExample.cs",
+              "RelativeToolTip": "EventsExample.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T01:16:25.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "DelegateExample.cs",
               "DocumentMoniker": "C:\\Users\\Winleon\\Snippets\\Coursera_Csharp_Programming_Projects\\DelegateExample.cs",
               "RelativeDocumentMoniker": "DelegateExample.cs",
@@ -42,12 +59,11 @@
               "RelativeToolTip": "DelegateExample.cs",
               "ViewState": "AQIAABAAAAAAAAAAAAAowBIAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-03T19:25:39.909Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-03T19:25:39.909Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Calculation.cs",
               "DocumentMoniker": "C:\\Users\\Winleon\\Snippets\\Coursera_Csharp_Programming_Projects\\Calculation.cs",
               "RelativeDocumentMoniker": "Calculation.cs",
@@ -59,7 +75,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Calculate.cs",
               "DocumentMoniker": "C:\\Users\\Winleon\\Snippets\\Coursera_Csharp_Programming_Projects\\Calculate.cs",
               "RelativeDocumentMoniker": "Calculate.cs",
