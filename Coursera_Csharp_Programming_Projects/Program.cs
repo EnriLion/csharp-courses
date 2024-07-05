@@ -1,4 +1,5 @@
 ﻿using Coursera_Csharp_Programming_Projects;
+using System.Linq.Expressions;
 using System.Security.Cryptography;
 using System.Text;
 
@@ -306,8 +307,8 @@ Console.WriteLine();
 int number = 100;
 
 /*bool result = number.isGreaterThan(1000);*/
-bool result = number.isGreaterThan(10);
-Console.WriteLine(result);
+bool result2 = number.isGreaterThan(10);
+Console.WriteLine(result2);
 
 Console.WriteLine();
 
@@ -413,7 +414,7 @@ Console.WriteLine(DelegateExample.getNumber());
 
 //Single Cast Delegates
 
-Console.WriteLine();
+/*Console.WriteLine();
 
 CalculateDelegate c1 = new CalculateDelegate(DelegateExample.addition);
 
@@ -424,3 +425,71 @@ c1 += new CalculateDelegate(DelegateExample.multiplication);
 
 c1(100);
 Console.WriteLine(DelegateExample.getNumber());
+*/
+Console.WriteLine();
+
+
+CalculateDelegate c1 = new CalculateDelegate(DelegateExample.addition);
+
+c1(100);
+Console.WriteLine(DelegateExample.getNumber());
+c1 += new CalculateDelegate(DelegateExample.addition);
+c1 += new CalculateDelegate(DelegateExample.multiplication);
+
+c1(100);
+Console.WriteLine(DelegateExample.getNumber());
+
+Console.WriteLine();
+
+//Events
+//The Subscriber Model
+
+EventsExample events = new EventsExample();
+events.event_OddNumber += new EventsExample.delegate_OddNumber(EventMessage);
+events.addition();
+Console.ReadLine();
+
+static void EventMessage()
+{
+    Console.WriteLine("Event Executed:Odd Number");
+}
+
+Console.WriteLine();
+
+//Anonymous Method
+
+AnnonymousMethodExample.InvokeMethod();
+
+Console.WriteLine();
+
+//Expression Lambda
+
+/*var numbers = new int[] { 2, 4, 6, 8, 1, 3, 5, 7};
+*/
+var numbers = new int[] { 2, 4, 5, 5, 1, 3, 5, 7};
+var count = numbers.Count(x => x == 5);
+Console.WriteLine(count);
+
+
+//Statement Lambda
+
+List<int> numbers2 = new List<int> { 2, 4, 5, 5, 1, 3, 5, 7};
+count = numbers.Count(x => { return x == 5; });
+Console.WriteLine(count);
+
+Console.WriteLine();
+
+//Statement Lambda
+
+Func<string, string, string> stringJoins = (str1, str2) => string.Concat(str1, str2);
+
+Expression<Func<string, string, string>>stringJoinExpr = (str1, str2) => string.Concat(str1, str2);
+
+var func = stringJoinExpr.Compile();
+var result = func("Hello", "World");
+Console.WriteLine(result);
+
+//OR
+
+result = stringJoinExpr.Compile()("Hello", "Everyone");
+Console.WriteLine(result);

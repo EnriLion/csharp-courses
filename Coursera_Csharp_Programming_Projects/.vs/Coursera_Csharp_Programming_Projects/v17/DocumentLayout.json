@@ -1,28 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Winleon\\Snippets\\Coursera_Csharp_Programming_Projects\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{5C4B4B13-C73B-4FA2-A120-2245A1B90E33}|Coursera_Csharp_Programming_Projects.csproj|c:\\users\\winleon\\snippets\\coursera_csharp_programming_projects\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C4B4B13-C73B-4FA2-A120-2245A1B90E33}|Coursera_Csharp_Programming_Projects.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C4B4B13-C73B-4FA2-A120-2245A1B90E33}|Coursera_Csharp_Programming_Projects.csproj|c:\\users\\winleon\\snippets\\coursera_csharp_programming_projects\\eventsexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C4B4B13-C73B-4FA2-A120-2245A1B90E33}|Coursera_Csharp_Programming_Projects.csproj|solutionrelative:eventsexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C4B4B13-C73B-4FA2-A120-2245A1B90E33}|Coursera_Csharp_Programming_Projects.csproj|c:\\users\\winleon\\snippets\\coursera_csharp_programming_projects\\delegateexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C4B4B13-C73B-4FA2-A120-2245A1B90E33}|Coursera_Csharp_Programming_Projects.csproj|solutionrelative:delegateexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C4B4B13-C73B-4FA2-A120-2245A1B90E33}|Coursera_Csharp_Programming_Projects.csproj|c:\\users\\winleon\\snippets\\coursera_csharp_programming_projects\\calculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C4B4B13-C73B-4FA2-A120-2245A1B90E33}|Coursera_Csharp_Programming_Projects.csproj|solutionrelative:calculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C4B4B13-C73B-4FA2-A120-2245A1B90E33}|Coursera_Csharp_Programming_Projects.csproj|c:\\users\\winleon\\snippets\\coursera_csharp_programming_projects\\calculate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C4B4B13-C73B-4FA2-A120-2245A1B90E33}|Coursera_Csharp_Programming_Projects.csproj|solutionrelative:calculate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -30,73 +9,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "EventsExample.cs",
-              "DocumentMoniker": "C:\\Users\\Winleon\\Snippets\\Coursera_Csharp_Programming_Projects\\EventsExample.cs",
-              "RelativeDocumentMoniker": "EventsExample.cs",
-              "ToolTip": "C:\\Users\\Winleon\\Snippets\\Coursera_Csharp_Programming_Projects\\EventsExample.cs",
-              "RelativeToolTip": "EventsExample.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-05T01:16:25.388Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "DelegateExample.cs",
-              "DocumentMoniker": "C:\\Users\\Winleon\\Snippets\\Coursera_Csharp_Programming_Projects\\DelegateExample.cs",
-              "RelativeDocumentMoniker": "DelegateExample.cs",
-              "ToolTip": "C:\\Users\\Winleon\\Snippets\\Coursera_Csharp_Programming_Projects\\DelegateExample.cs",
-              "RelativeToolTip": "DelegateExample.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAowBIAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-03T19:25:39.909Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Calculation.cs",
-              "DocumentMoniker": "C:\\Users\\Winleon\\Snippets\\Coursera_Csharp_Programming_Projects\\Calculation.cs",
-              "RelativeDocumentMoniker": "Calculation.cs",
-              "ToolTip": "C:\\Users\\Winleon\\Snippets\\Coursera_Csharp_Programming_Projects\\Calculation.cs",
-              "RelativeToolTip": "Calculation.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAgwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-03T18:26:58.08Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Calculate.cs",
-              "DocumentMoniker": "C:\\Users\\Winleon\\Snippets\\Coursera_Csharp_Programming_Projects\\Calculate.cs",
-              "RelativeDocumentMoniker": "Calculate.cs",
-              "ToolTip": "C:\\Users\\Winleon\\Snippets\\Coursera_Csharp_Programming_Projects\\Calculate.cs",
-              "RelativeToolTip": "Calculate.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAxwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-03T18:26:51.665Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Winleon\\Snippets\\Coursera_Csharp_Programming_Projects\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Winleon\\Snippets\\Coursera_Csharp_Programming_Projects\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAJwBAAAAAAAAAAAAwKMBAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-02T05:05:57.874Z",
-              "EditorCaption": ""
             }
           ]
         }
