@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Coursera_Csharp_Programming_Projects")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cca5775fc5136ac955335f3281634016b9fc2676")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+19bdf8c35885d8f1b7e8676fec3ccb9cd7eabd2d")]
 [assembly: System.Reflection.AssemblyProductAttribute("Coursera_Csharp_Programming_Projects")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Coursera_Csharp_Programming_Projects")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
