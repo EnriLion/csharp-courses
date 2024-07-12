@@ -1,0 +1,78 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Winleon\\Snippets\\CRUDWithADONet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F5A72B9D-DA3E-4C08-9662-FDB9BB950C4B}|CRUDWithADONet.csproj|c:\\users\\winleon\\snippets\\crudwithadonet\\dbscript.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{F5A72B9D-DA3E-4C08-9662-FDB9BB950C4B}|CRUDWithADONet.csproj|solutionrelative:dbscript.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5A72B9D-DA3E-4C08-9662-FDB9BB950C4B}|CRUDWithADONet.csproj|c:\\users\\winleon\\snippets\\crudwithadonet\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F5A72B9D-DA3E-4C08-9662-FDB9BB950C4B}|CRUDWithADONet.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5A72B9D-DA3E-4C08-9662-FDB9BB950C4B}|CRUDWithADONet.csproj|c:\\users\\winleon\\snippets\\crudwithadonet\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5A72B9D-DA3E-4C08-9662-FDB9BB950C4B}|CRUDWithADONet.csproj|solutionrelative:models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5A72B9D-DA3E-4C08-9662-FDB9BB950C4B}|CRUDWithADONet.csproj|c:\\users\\winleon\\snippets\\crudwithadonet\\dbscript.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{F5A72B9D-DA3E-4C08-9662-FDB9BB950C4B}|CRUDWithADONet.csproj|solutionrelative:dbscript.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Winleon\\Snippets\\CRUDWithADONet\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Winleon\\Snippets\\CRUDWithADONet\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-12T04:39:25.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DBScript.sql ",
+              "DocumentMoniker": "C:\\Users\\Winleon\\Snippets\\CRUDWithADONet\\DBScript.sql",
+              "RelativeDocumentMoniker": "DBScript.sql",
+              "ToolTip": "C:\\Users\\Winleon\\Snippets\\CRUDWithADONet\\DBScript.sql",
+              "RelativeToolTip": "DBScript.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-07-12T04:25:17.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Winleon\\Snippets\\CRUDWithADONet\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\Winleon\\Snippets\\CRUDWithADONet\\Models\\Employee.cs",
+              "RelativeToolTip": "Models\\Employee.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAgwCAAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T03:42:00.589Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
