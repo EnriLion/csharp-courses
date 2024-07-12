@@ -1,0 +1,228 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Winleon\\Snippets\\ContosoCrafts\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{57DCAE4D-D88C-4A40-B1E7-103DB0C0FEB2}|ContosoCrafts.Website\\ContosoCrafts.Website.csproj|c:\\users\\winleon\\snippets\\contosocrafts\\contosocrafts.website\\wwwroot\\data\\products.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{57DCAE4D-D88C-4A40-B1E7-103DB0C0FEB2}|ContosoCrafts.Website\\ContosoCrafts.Website.csproj|solutionrelative:contosocrafts.website\\wwwroot\\data\\products.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57DCAE4D-D88C-4A40-B1E7-103DB0C0FEB2}|ContosoCrafts.Website\\ContosoCrafts.Website.csproj|c:\\users\\winleon\\snippets\\contosocrafts\\contosocrafts.website\\contosocrafts.website.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{57DCAE4D-D88C-4A40-B1E7-103DB0C0FEB2}|ContosoCrafts.Website\\ContosoCrafts.Website.csproj|solutionrelative:contosocrafts.website\\contosocrafts.website.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57DCAE4D-D88C-4A40-B1E7-103DB0C0FEB2}|ContosoCrafts.Website\\ContosoCrafts.Website.csproj|c:\\users\\winleon\\snippets\\contosocrafts\\contosocrafts.website\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{57DCAE4D-D88C-4A40-B1E7-103DB0C0FEB2}|ContosoCrafts.Website\\ContosoCrafts.Website.csproj|solutionrelative:contosocrafts.website\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57DCAE4D-D88C-4A40-B1E7-103DB0C0FEB2}|ContosoCrafts.Website\\ContosoCrafts.Website.csproj|c:\\users\\winleon\\snippets\\contosocrafts\\contosocrafts.website\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57DCAE4D-D88C-4A40-B1E7-103DB0C0FEB2}|ContosoCrafts.Website\\ContosoCrafts.Website.csproj|solutionrelative:contosocrafts.website\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57DCAE4D-D88C-4A40-B1E7-103DB0C0FEB2}|ContosoCrafts.Website\\ContosoCrafts.Website.csproj|c:\\users\\winleon\\snippets\\contosocrafts\\contosocrafts.website\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{57DCAE4D-D88C-4A40-B1E7-103DB0C0FEB2}|ContosoCrafts.Website\\ContosoCrafts.Website.csproj|solutionrelative:contosocrafts.website\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57DCAE4D-D88C-4A40-B1E7-103DB0C0FEB2}|ContosoCrafts.Website\\ContosoCrafts.Website.csproj|c:\\users\\winleon\\snippets\\contosocrafts\\contosocrafts.website\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57DCAE4D-D88C-4A40-B1E7-103DB0C0FEB2}|ContosoCrafts.Website\\ContosoCrafts.Website.csproj|solutionrelative:contosocrafts.website\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57DCAE4D-D88C-4A40-B1E7-103DB0C0FEB2}|ContosoCrafts.Website\\ContosoCrafts.Website.csproj|c:\\users\\winleon\\snippets\\contosocrafts\\contosocrafts.website\\services\\jsonfileproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57DCAE4D-D88C-4A40-B1E7-103DB0C0FEB2}|ContosoCrafts.Website\\ContosoCrafts.Website.csproj|solutionrelative:contosocrafts.website\\services\\jsonfileproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57DCAE4D-D88C-4A40-B1E7-103DB0C0FEB2}|ContosoCrafts.Website\\ContosoCrafts.Website.csproj|c:\\users\\winleon\\snippets\\contosocrafts\\contosocrafts.website\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57DCAE4D-D88C-4A40-B1E7-103DB0C0FEB2}|ContosoCrafts.Website\\ContosoCrafts.Website.csproj|solutionrelative:contosocrafts.website\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57DCAE4D-D88C-4A40-B1E7-103DB0C0FEB2}|ContosoCrafts.Website\\ContosoCrafts.Website.csproj|c:\\users\\winleon\\snippets\\contosocrafts\\contosocrafts.website\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57DCAE4D-D88C-4A40-B1E7-103DB0C0FEB2}|ContosoCrafts.Website\\ContosoCrafts.Website.csproj|solutionrelative:contosocrafts.website\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57DCAE4D-D88C-4A40-B1E7-103DB0C0FEB2}|ContosoCrafts.Website\\ContosoCrafts.Website.csproj|c:\\users\\winleon\\snippets\\contosocrafts\\contosocrafts.website\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{57DCAE4D-D88C-4A40-B1E7-103DB0C0FEB2}|ContosoCrafts.Website\\ContosoCrafts.Website.csproj|solutionrelative:contosocrafts.website\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57DCAE4D-D88C-4A40-B1E7-103DB0C0FEB2}|ContosoCrafts.Website\\ContosoCrafts.Website.csproj|c:\\users\\winleon\\snippets\\contosocrafts\\contosocrafts.website\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{57DCAE4D-D88C-4A40-B1E7-103DB0C0FEB2}|ContosoCrafts.Website\\ContosoCrafts.Website.csproj|solutionrelative:contosocrafts.website\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57DCAE4D-D88C-4A40-B1E7-103DB0C0FEB2}|ContosoCrafts.Website\\ContosoCrafts.Website.csproj|c:\\users\\winleon\\snippets\\contosocrafts\\contosocrafts.website\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57DCAE4D-D88C-4A40-B1E7-103DB0C0FEB2}|ContosoCrafts.Website\\ContosoCrafts.Website.csproj|solutionrelative:contosocrafts.website\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ContosoCrafts.Website",
+              "DocumentMoniker": "C:\\Users\\Winleon\\Snippets\\ContosoCrafts\\ContosoCrafts.Website\\ContosoCrafts.Website.csproj",
+              "RelativeDocumentMoniker": "ContosoCrafts.Website\\ContosoCrafts.Website.csproj",
+              "ToolTip": "C:\\Users\\Winleon\\Snippets\\ContosoCrafts\\ContosoCrafts.Website\\ContosoCrafts.Website.csproj",
+              "RelativeToolTip": "ContosoCrafts.Website\\ContosoCrafts.Website.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-12T00:06:24.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "products.json",
+              "DocumentMoniker": "C:\\Users\\Winleon\\Snippets\\ContosoCrafts\\ContosoCrafts.Website\\wwwroot\\data\\products.json",
+              "RelativeDocumentMoniker": "ContosoCrafts.Website\\wwwroot\\data\\products.json",
+              "ToolTip": "C:\\Users\\Winleon\\Snippets\\ContosoCrafts\\ContosoCrafts.Website\\wwwroot\\data\\products.json",
+              "RelativeToolTip": "ContosoCrafts.Website\\wwwroot\\data\\products.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-12T00:44:53.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Winleon\\Snippets\\ContosoCrafts\\ContosoCrafts.Website\\appsettings.json",
+              "RelativeDocumentMoniker": "ContosoCrafts.Website\\appsettings.json",
+              "ToolTip": "C:\\Users\\Winleon\\Snippets\\ContosoCrafts\\ContosoCrafts.Website\\appsettings.json",
+              "RelativeToolTip": "ContosoCrafts.Website\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-12T00:44:28.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\Winleon\\Snippets\\ContosoCrafts\\ContosoCrafts.Website\\Startup.cs",
+              "RelativeDocumentMoniker": "ContosoCrafts.Website\\Startup.cs",
+              "ToolTip": "C:\\Users\\Winleon\\Snippets\\ContosoCrafts\\ContosoCrafts.Website\\Startup.cs",
+              "RelativeToolTip": "ContosoCrafts.Website\\Startup.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAADwvxsAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T23:56:05.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Winleon\\Snippets\\ContosoCrafts\\ContosoCrafts.Website\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "ContosoCrafts.Website\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Winleon\\Snippets\\ContosoCrafts\\ContosoCrafts.Website\\Models\\Product.cs",
+              "RelativeToolTip": "ContosoCrafts.Website\\Models\\Product.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAABIAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T23:32:42.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Winleon\\Snippets\\ContosoCrafts\\ContosoCrafts.Website\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ContosoCrafts.Website\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Winleon\\Snippets\\ContosoCrafts\\ContosoCrafts.Website\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ContosoCrafts.Website\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-11T23:05:27.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "JsonFileProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Winleon\\Snippets\\ContosoCrafts\\ContosoCrafts.Website\\Services\\JsonFileProductService.cs",
+              "RelativeDocumentMoniker": "ContosoCrafts.Website\\Services\\JsonFileProductService.cs",
+              "ToolTip": "C:\\Users\\Winleon\\Snippets\\ContosoCrafts\\ContosoCrafts.Website\\Services\\JsonFileProductService.cs",
+              "RelativeToolTip": "ContosoCrafts.Website\\Services\\JsonFileProductService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T00:06:40.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Winleon\\Snippets\\ContosoCrafts\\ContosoCrafts.Website\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "ContosoCrafts.Website\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Winleon\\Snippets\\ContosoCrafts\\ContosoCrafts.Website\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "ContosoCrafts.Website\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-11T23:55:24.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Winleon\\Snippets\\ContosoCrafts\\ContosoCrafts.Website\\Program.cs",
+              "RelativeDocumentMoniker": "ContosoCrafts.Website\\Program.cs",
+              "ToolTip": "C:\\Users\\Winleon\\Snippets\\ContosoCrafts\\ContosoCrafts.Website\\Program.cs",
+              "RelativeToolTip": "ContosoCrafts.Website\\Program.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T23:05:13.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Winleon\\Snippets\\ContosoCrafts\\ContosoCrafts.Website\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "ContosoCrafts.Website\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Winleon\\Snippets\\ContosoCrafts\\ContosoCrafts.Website\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "ContosoCrafts.Website\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-11T23:55:19.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Winleon\\Snippets\\ContosoCrafts\\ContosoCrafts.Website\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ContosoCrafts.Website\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Winleon\\Snippets\\ContosoCrafts\\ContosoCrafts.Website\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ContosoCrafts.Website\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T23:55:06.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Winleon\\Snippets\\ContosoCrafts\\ContosoCrafts.Website\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "ContosoCrafts.Website\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Winleon\\Snippets\\ContosoCrafts\\ContosoCrafts.Website\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "ContosoCrafts.Website\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T23:13:41.919Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
