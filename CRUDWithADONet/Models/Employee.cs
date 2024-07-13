@@ -7,7 +7,7 @@ namespace CRUDWithADONet.Models
     public class Employee
     {
         [Key]
-        public int ID {  get; set; }
+        public int Id {  get; set; }
 
         [DisplayName("First Name")]
         [Required]
