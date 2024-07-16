@@ -1,32 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Winleon\\Snippets\\CRUDWithADONet\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{F5A72B9D-DA3E-4C08-9662-FDB9BB950C4B}|CRUDWithADONet.csproj|c:\\users\\winleon\\snippets\\crudwithadonet\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F5A72B9D-DA3E-4C08-9662-FDB9BB950C4B}|CRUDWithADONet.csproj|solutionrelative:views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F5A72B9D-DA3E-4C08-9662-FDB9BB950C4B}|CRUDWithADONet.csproj|c:\\users\\winleon\\snippets\\crudwithadonet\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F5A72B9D-DA3E-4C08-9662-FDB9BB950C4B}|CRUDWithADONet.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F5A72B9D-DA3E-4C08-9662-FDB9BB950C4B}|CRUDWithADONet.csproj|c:\\users\\winleon\\snippets\\crudwithadonet\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F5A72B9D-DA3E-4C08-9662-FDB9BB950C4B}|CRUDWithADONet.csproj|solutionrelative:controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F5A72B9D-DA3E-4C08-9662-FDB9BB950C4B}|CRUDWithADONet.csproj|c:\\users\\winleon\\snippets\\crudwithadonet\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F5A72B9D-DA3E-4C08-9662-FDB9BB950C4B}|CRUDWithADONet.csproj|solutionrelative:models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F5A72B9D-DA3E-4C08-9662-FDB9BB950C4B}|CRUDWithADONet.csproj|c:\\users\\winleon\\snippets\\crudwithadonet\\dal\\employee_dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F5A72B9D-DA3E-4C08-9662-FDB9BB950C4B}|CRUDWithADONet.csproj|solutionrelative:dal\\employee_dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F5A72B9D-DA3E-4C08-9662-FDB9BB950C4B}|CRUDWithADONet.csproj|c:\\users\\winleon\\snippets\\crudwithadonet\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{F5A72B9D-DA3E-4C08-9662-FDB9BB950C4B}|CRUDWithADONet.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -34,88 +9,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\Winleon\\Snippets\\CRUDWithADONet\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\Winleon\\Snippets\\CRUDWithADONet\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "Views\\_ViewImports.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-13T00:44:37.233Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Winleon\\Snippets\\CRUDWithADONet\\Views\\Employee\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Employee\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Winleon\\Snippets\\CRUDWithADONet\\Views\\Employee\\Index.cshtml",
-              "RelativeToolTip": "Views\\Employee\\Index.cshtml",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAQwBgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-13T00:08:04.385Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "EmployeeController.cs",
-              "DocumentMoniker": "C:\\Users\\Winleon\\Snippets\\CRUDWithADONet\\Controllers\\EmployeeController.cs",
-              "RelativeDocumentMoniker": "Controllers\\EmployeeController.cs",
-              "ToolTip": "C:\\Users\\Winleon\\Snippets\\CRUDWithADONet\\Controllers\\EmployeeController.cs",
-              "RelativeToolTip": "Controllers\\EmployeeController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-13T00:01:16.276Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Employee_DAL.cs",
-              "DocumentMoniker": "C:\\Users\\Winleon\\Snippets\\CRUDWithADONet\\DAL\\Employee_DAL.cs",
-              "RelativeDocumentMoniker": "DAL\\Employee_DAL.cs",
-              "ToolTip": "C:\\Users\\Winleon\\Snippets\\CRUDWithADONet\\DAL\\Employee_DAL.cs",
-              "RelativeToolTip": "DAL\\Employee_DAL.cs",
-              "ViewState": "AQIAABQAAAAAAAAAAAA9wB8AAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-12T22:13:22.664Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Winleon\\Snippets\\CRUDWithADONet\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\Winleon\\Snippets\\CRUDWithADONet\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-12T04:39:25.85Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Employee.cs",
-              "DocumentMoniker": "C:\\Users\\Winleon\\Snippets\\CRUDWithADONet\\Models\\Employee.cs",
-              "RelativeDocumentMoniker": "Models\\Employee.cs",
-              "ToolTip": "C:\\Users\\Winleon\\Snippets\\CRUDWithADONet\\Models\\Employee.cs",
-              "RelativeToolTip": "Models\\Employee.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAgwAkAAAAUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-12T03:42:00.589Z",
-              "EditorCaption": ""
             }
           ]
         }

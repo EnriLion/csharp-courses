@@ -5,9 +5,9 @@
     var errorMessage = TempData["errorMessage"]?.ToString();
     var successMessage = TempData["successMessage"]?.ToString();
 }
-<h3>@ViewData["Title"]</h3>
+<h3>@ViewData["Title"]?.ToString()</h3>
 <hr />
-@if (!string.IsNullOrWhiteSpace(successMessage))
+@if (!string.IsNullOrWhiteSpace(@successMessage))
 {
     <div class="alert alert-sucess">
         <b>Success : </b>@successMessage;
@@ -23,7 +23,7 @@ else if (!string.IsNullOrWhiteSpace(errorMessage))
 }
 <form>
     <button asp-action="Create" asp-controller="Employee" class="btn btn-primary mb-3">Create Employee</button>
-    <table class="table table-responsive table-hover">
+    <table class="table table-responsive table-bordered table-hover">
         <thead>
             <tr class="table-active"><
                 <th>Id</th>
